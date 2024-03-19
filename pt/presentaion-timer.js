@@ -77,3 +77,8 @@ function	showHideWarningInputs()
 	}
 
 }
+
+function	reload()
+{
+	location.reload();
+}
